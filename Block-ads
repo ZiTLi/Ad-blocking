@@ -1,0 +1,30 @@
+# Viber, Skype - no ADs
+# v 1.0 [22.02.2020]
+
+0.0.0.0 0.0.0.0 
+0.0.0.0 rad.msn.com 
+0.0.0.0 adriver.ru 
+0.0.0.0 api.skype.com 
+0.0.0.0 static.skypeassets.com 
+0.0.0.0 apps.skype.com 
+0.0.0.0 devads.skypeassets.net 
+0.0.0.0 devapps.skype.net 
+0.0.0.0 qawww.skypeassets.net 
+0.0.0.0 qaapi.skype.net 
+0.0.0.0 preads.skypeassets.net 
+0.0.0.0 preapps.skype.net 
+0.0.0.0 serving.plexop.net
+0.0.0.0 preg.bforex.com 
+0.0.0.0 ads1.msads.net
+0.0.0.0 flex.msn.com
+0.0.0.0 ads.viber.com
+0.0.0.0 ads.aws.viber.com 
+0.0.0.0 ads-d.viber.com
+0.0.0.0 images.taboola.com
+0.0.0.0 api.taboola.com
+0.0.0.0 rmp.rakuten.com
+0.0.0.0 s-clk.rmp.rakuten.com
+0.0.0.0 s-bid.rmp.rakuten.com
+0.0.0.0 s-imp.rmp.rakuten.com
+0.0.0.0 api.mixpanel.com
+
