@@ -1,5 +1,14 @@
-# Viber, Skype - no ADs
-# v 1.0 [22.02.2020]
+# Title: SZiTLi - Ad-blocking
+# 
+#
+# Date: 22.02.2020 1 (UTC)
+# v 1.0
+# 
+# https://github.com/ZiTLi/Ad-blocking/blob/master/hosts
+# https://raw.githubusercontent.com/ZiTLi/Ad-blocking/master/hosts
+#
+# ===============================================================
+
 
 0.0.0.0 0.0.0.0 
 0.0.0.0 rad.msn.com 
