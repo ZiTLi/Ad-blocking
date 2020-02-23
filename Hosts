@@ -1,4 +1,4 @@
-# Title: SZiTLi - Ad-blocking
+# Title: ZiTLi - Ad-blocking
 #
 # Date: 22.02.2020 1 (UTC)
 # Version 1.0
@@ -6,10 +6,11 @@
 # https://github.com/ZiTLi/Ad-blocking/blob/master/Hosts
 #
 # https://raw.githubusercontent.com/ZiTLi/Ad-blocking/master/Hosts
-#
+# https://raw.githubusercontent.com/ZiTLi/Ad-blocking/master/Hosts
 # ===============================================================
 
 0.0.0.0 0.0.0.0 
+
 # Skype 
 0.0.0.0 rad.msn.com 
 0.0.0.0 adriver.ru 
