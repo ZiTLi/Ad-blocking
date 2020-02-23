@@ -10,7 +10,7 @@
 # ===============================================================
 
 0.0.0.0 0.0.0.0 
-& Skype &
+# Skype 
 0.0.0.0 rad.msn.com 
 0.0.0.0 adriver.ru 
 0.0.0.0 api.skype.com 
@@ -36,9 +36,9 @@
 0.0.0.0 cdn.eyewonder.com 
 0.0.0.0 ui.skype.com
 0.0.0.0 static.skypeassets.com
-& Skype &
+# Skype 
 
-& Viber &
+# Viber 
 0.0.0.0 ads.viber.com
 0.0.0.0 ads.aws.viber.com 
 0.0.0.0 ads-d.viber.com
@@ -49,9 +49,9 @@
 0.0.0.0 s-bid.rmp.rakuten.com
 0.0.0.0 s-imp.rmp.rakuten.com
 0.0.0.0 api.mixpanel.com
-& Viber &
+# Viber 
 
-& UncheckyAds List &
+# UncheckyAds List 
 0.0.0.0 cdn.appround.biz
 0.0.0.0 cdn.download.sweetpacks.com
 0.0.0.0 cdn.insta.playbryte.com
@@ -62,4 +62,4 @@
 0.0.0.0 installer.filebulldog.com
 0.0.0.0 nsis.bisrv.com
 0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
-& UncheckyAds List *
+# UncheckyAds List
