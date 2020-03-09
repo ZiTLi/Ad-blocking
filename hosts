@@ -10,31 +10,32 @@
 0.0.0.0 0.0.0.0 
 
 # Skype 
-0.0.0.0 rad.msn.com 
-0.0.0.0 adriver.ru 
-0.0.0.0 api.skype.com 
-0.0.0.0 static.skypeassets.com 
-0.0.0.0 apps.skype.com 
-0.0.0.0 devads.skypeassets.net 
-0.0.0.0 devapps.skype.net 
-0.0.0.0 qawww.skypeassets.net 
-0.0.0.0 qaapi.skype.net 
-0.0.0.0 preads.skypeassets.net 
-0.0.0.0 preapps.skype.net 
-0.0.0.0 serving.plexop.net
-0.0.0.0 preg.bforex.com 
-0.0.0.0 ads1.msads.net
-0.0.0.0 flex.msn.com
-0.0.0.0 rink.hockeyapp.net
-0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 rad.msn.com
+0.0.0.0 adriver.ru
+0.0.0.0 api.skype.com
+0.0.0.0 download.skype.com
+0.0.0.0 apps.skype.com
+0.0.0.0 devapps.skype.net
+0.0.0.0 qaapi.skype.net
+0.0.0.0 preapps.skype.net
 0.0.0.0 a.config.skype.com
 0.0.0.0 b.config.skype.com
 0.0.0.0 pipe.skype.com
 0.0.0.0 pricelist.skype.com
-0.0.0.0 g.msn.com 
-0.0.0.0 cdn.eyewonder.com 
 0.0.0.0 ui.skype.com
 0.0.0.0 static.skypeassets.com
+0.0.0.0 preads.skypeassets.net
+0.0.0.0 qaads.skypeassets.net
+0.0.0.0 qawww.skypeassets.net
+0.0.0.0 devads.skypeassets.net
+0.0.0.0 serving.plexop.net
+0.0.0.0 preg.bforex.com
+0.0.0.0 ads1.msads.net
+0.0.0.0 flex.msn.com
+0.0.0.0 rink.hockeyapp.net
+0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 g.msn.com
+0.0.0.0 cdn.eyewonder.com
 0.0.0.0 *.msads.net
 0.0.0.0 *.msecn.net
 0.0.0.0 *.rad.msn.com
@@ -56,22 +57,15 @@
 0.0.0.0 cdn.atdmt.com
 0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 db3aqu.atdmt.com
-0.0.0.0 devads.skypeassets.net
-0.0.0.0 download.skype.com
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dtm.advertising.com
 0.0.0.0 ec.atdmt.com
-0.0.0.0 g.msn.com
 0.0.0.0 gum.criteo.com
 0.0.0.0 h6.msn.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 live.rads.msn.com
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 pixel.advertising.com
-0.0.0.0 preads.skypeassets.net
-0.0.0.0 qaads.skypeassets.net
-0.0.0.0 qawww.skypeassets.net
-0.0.0.0 rad.msn.com
 0.0.0.0 s.aolcdn.com
 0.0.0.0 s.blogsmithmedia.com
 0.0.0.0 secure-ams.adnxs.com
@@ -81,12 +75,11 @@
 0.0.0.0 secure.uac.advertising.com
 0.0.0.0 sO.2mdn.net
 0.0.0.0 static.2mdn.net
-0.0.0.0 static.skypeassets.net
 0.0.0.0 su.addthis.com
 0.0.0.0 uk.at.atwola.com
-# End block Skype ads
+# End Skype
 
-# Viber 
+# Viber
 0.0.0.0 s-bid.rmp.rakuten.com
 0.0.0.0 ads.cdn.viber.com
 0.0.0.0 ads.*.viber.com
@@ -95,7 +88,7 @@
 0.0.0.0 fra1-ib.adnxs.com
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 ads.viber.com
-0.0.0.0 ads.aws.viber.com 
+0.0.0.0 ads.aws.viber.com
 0.0.0.0 ads-d.viber.com
 0.0.0.0 images.taboola.com
 0.0.0.0 api.taboola.com
@@ -103,8 +96,9 @@
 0.0.0.0 s-clk.rmp.rakuten.com
 0.0.0.0 s-imp.rmp.rakuten.com
 0.0.0.0 api.mixpanel.com
+# End Viber
 
-# UncheckyAds List 
+# UncheckyAds List
 0.0.0.0 cdn.appround.biz
 0.0.0.0 cdn.download.sweetpacks.com
 0.0.0.0 cdn.insta.playbryte.com
@@ -115,4 +109,4 @@
 0.0.0.0 installer.filebulldog.com
 0.0.0.0 nsis.bisrv.com
 0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
-# UncheckyAds List
+# End UncheckyAds List
