@@ -1,12 +1,10 @@
 # Title: ZiTLi - Ad-blocking
 #
-# Date: 22.02.2020 1 (UTC)
-# Version 1.0
+# Date: 09.03.2020
+# Version 1.1
 # 
-# https://github.com/ZiTLi/Ad-blocking/blob/master/Hosts
-#
-# https://raw.githubusercontent.com/ZiTLi/Ad-blocking/master/Hosts
-# https://raw.githubusercontent.com/ZiTLi/Ad-blocking/master/Hosts
+# https://github.com/ZiTLi/Ad-blocking/blob/master/hosts
+# https://raw.githubusercontent.com/ZiTLi/Ad-blocking/master/hosts
 # ===============================================================
 
 0.0.0.0 0.0.0.0 
@@ -37,62 +35,56 @@
 0.0.0.0 cdn.eyewonder.com 
 0.0.0.0 ui.skype.com
 0.0.0.0 static.skypeassets.com
-# Skype 
-# Block Skype ads
-127.0.0.1 *.msads.net
-127.0.0.1 *.msecn.net
-127.0.0.1 *.rad.msn.com
-127.0.0.1 a.ads2.msads.net
-127.0.0.1 ac3.msn.com
-127.0.0.1 ad.doubleclick.net
-127.0.0.1 adnexus.net
-127.0.0.1 adnxs.com
-127.0.0.1 ads1.msads.net
-127.0.0.1 ads1.msn.com
-127.0.0.1 ads2.msads.net
-127.0.0.1 aka-cdn-ns.adtech.de
-127.0.0.1 an.secure.tacoda.net
-127.0.0.1 aorta.clickagy.com
-127.0.0.1 asvcs.aol.com
-127.0.0.1 az512334.vo.msecnd.net
-127.0.0.1 b.ads2.msads.net
-127.0.0.1 bs.serving-sys.com
-127.0.0.1 cdn.at.atwola.com
-127.0.0.1 cdn.atdmt.com
-127.0.0.1 cds26.ams9.msecn.net
-127.0.0.1 db3aqu.atdmt.com
-127.0.0.1 devads.skypeassets.net
-127.0.0.1 download.skype.com
-127.0.0.1 dpm.demdex.net
-127.0.0.1 dtm.advertising.com
-127.0.0.1 ec.atdmt.com
-127.0.0.1 flex.msn.com
-127.0.0.1 g.msn.com
-127.0.0.1 gum.criteo.com
-127.0.0.1 h6.msn.com
-127.0.0.1 ib.adnxs.com
-127.0.0.1 live.rads.msn.com
-127.0.0.1 msntest.serving-sys.com
-127.0.0.1 pixel.advertising.com
-127.0.0.1 preads.skypeassets.net
-127.0.0.1 qaads.skypeassets.net
-127.0.0.1 qawww.skypeassets.net
-127.0.0.1 rad.msn.com
-127.0.0.1 s.aolcdn.com
-127.0.0.1 s.blogsmithmedia.com
-127.0.0.1 secure-ams.adnxs.com
-127.0.0.1 secure-fra.adnxs.com
-127.0.0.1 secure.adnxs.com
-127.0.0.1 secure.flashtalking.com
-127.0.0.1 secure.uac.advertising.com
-127.0.0.1 sO.2mdn.net
-127.0.0.1 static.2mdn.net
-127.0.0.1 static.skypeassets.com
-127.0.0.1 static.skypeassets.net
-127.0.0.1 su.addthis.com
-127.0.0.1 uk.at.atwola.com
+0.0.0.0 *.msads.net
+0.0.0.0 *.msecn.net
+0.0.0.0 *.rad.msn.com
+0.0.0.0 a.ads2.msads.net
+0.0.0.0 ac3.msn.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 adnexus.net
+0.0.0.0 adnxs.com
+0.0.0.0 ads1.msn.com
+0.0.0.0 ads2.msads.net
+0.0.0.0 aka-cdn-ns.adtech.de
+0.0.0.0 an.secure.tacoda.net
+0.0.0.0 aorta.clickagy.com
+0.0.0.0 asvcs.aol.com
+0.0.0.0 az512334.vo.msecnd.net
+0.0.0.0 b.ads2.msads.net
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 cdn.at.atwola.com
+0.0.0.0 cdn.atdmt.com
+0.0.0.0 cds26.ams9.msecn.net
+0.0.0.0 db3aqu.atdmt.com
+0.0.0.0 devads.skypeassets.net
+0.0.0.0 download.skype.com
+0.0.0.0 dpm.demdex.net
+0.0.0.0 dtm.advertising.com
+0.0.0.0 ec.atdmt.com
+0.0.0.0 g.msn.com
+0.0.0.0 gum.criteo.com
+0.0.0.0 h6.msn.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 live.rads.msn.com
+0.0.0.0 msntest.serving-sys.com
+0.0.0.0 pixel.advertising.com
+0.0.0.0 preads.skypeassets.net
+0.0.0.0 qaads.skypeassets.net
+0.0.0.0 qawww.skypeassets.net
+0.0.0.0 rad.msn.com
+0.0.0.0 s.aolcdn.com
+0.0.0.0 s.blogsmithmedia.com
+0.0.0.0 secure-ams.adnxs.com
+0.0.0.0 secure-fra.adnxs.com
+0.0.0.0 secure.adnxs.com
+0.0.0.0 secure.flashtalking.com
+0.0.0.0 secure.uac.advertising.com
+0.0.0.0 sO.2mdn.net
+0.0.0.0 static.2mdn.net
+0.0.0.0 static.skypeassets.net
+0.0.0.0 su.addthis.com
+0.0.0.0 uk.at.atwola.com
 # End block Skype ads
-
 
 # Viber 
 0.0.0.0 s-bid.rmp.rakuten.com
@@ -109,10 +101,8 @@
 0.0.0.0 api.taboola.com
 0.0.0.0 rmp.rakuten.com
 0.0.0.0 s-clk.rmp.rakuten.com
-0.0.0.0 s-bid.rmp.rakuten.com
 0.0.0.0 s-imp.rmp.rakuten.com
 0.0.0.0 api.mixpanel.com
-# Viber 
 
 # UncheckyAds List 
 0.0.0.0 cdn.appround.biz
